@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **React-Native, Javascript and Typescript**
+- 💬 Ask me about **React-Native, Javascript and Typescript,Github CI/CD,React, Firebase, Android/Ios deployment**
 
 - 📫 How to reach me **kumarishilpa60@gmail.com**
 
