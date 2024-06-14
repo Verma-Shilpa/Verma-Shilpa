@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=verma-shilpa" alt="verma-shilpa" /></a> </p>
 
-- 🔭 I’m currently working on [MINT Dentistry](N/A)
+- 🔭 I’m currently working on [Indigo App](N/A)
 
 - 🌱 I’m currently learning **Flutter**
 
