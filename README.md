@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=verma-shilpa" alt="verma-shilpa" /></a> </p>
 
-- 🔭 I’m currently working on [Keurig App](N/A)
+- 🔭 I’m currently working on [Keurig App](https://apps.apple.com/us/app/keurig/id1200578231)
 
 - 💬 Ask me about **React-Native, React JS, Javascript and Typescript,Github CI/CD,React, Firebase, Android/Ios deployment, Unit Test Cases**
 
