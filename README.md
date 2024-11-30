@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Indigo App](N/A)
 
-- 💬 Ask me about **React-Native, Javascript and Typescript,Github CI/CD,React, Firebase, Android/Ios deployment**
+- 💬 Ask me about **React-Native, React JS, Javascript and Typescript,Github CI/CD,React, Firebase, Android/Ios deployment, Unit Test Cases**
 
 - 📫 How to reach me **kumarishilpa60@gmail.com**
 
