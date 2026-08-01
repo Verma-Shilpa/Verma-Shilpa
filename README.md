@@ -55,6 +55,14 @@
   <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
 </p>
 
+**AI-Assisted Development**
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/GenAI_Prompt_Engineering-8A2BE2?style=flat-square" />
+</p>
+
 **Tools & Practices**
 
 <p>
@@ -71,6 +79,9 @@
 
 | Project | Role | Stack | Highlights |
 |---|---|---|---|
+| **[Expense Tracker (GenAI)](https://github.com/Verma-Shilpa/expense-tracker-genai)** | Builder | React.js, TypeScript, Python | Built using GenAI-assisted development — prompted and iterated with GitHub Copilot & OpenAI Codex |
+| **[React Dashboard](https://github.com/Verma-Shilpa/react-dashboard)** | Builder | React.js | Product listing dashboard with search and data views |
+| **[E-commerce Web (Next.js)](https://github.com/Verma-Shilpa/ecommerce-web-next)** | Builder | React.js, Next.js | E-commerce storefront built with React and Next.js |
 | **Keurig App** | Senior Technical Lead | React Native, TypeScript, Firebase Cloud Messaging, Optimizely | IoT companion app for Keurig® smart brewers — live on App Store & Play Store |
 | **Indigo Flight Booking** | Module Lead | React Native, TypeScript, Datadog, Microservices, Adobe APIs | Flight booking, fares & seat selection for a high-traffic travel app |
 | **MINT Dentistry (USA)** | Team Lead | React Native, TypeScript, AWS, Firebase Crashlytics | Healthcare services app with a dedicated Data Privacy module |
