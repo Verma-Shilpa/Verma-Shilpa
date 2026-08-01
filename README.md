@@ -1,27 +1,92 @@
-<h1 align="center">Hi 👋, I'm Shilpa</h1>
-<h3 align="center">A passionate Hybrid Mobile Application Developer with extensive knowledge of mobile app development in analysing relevant information and guiding cycle from conception to completion. Proficient in frameworks including React-Native, Ionic, writing clean, readable and testable code.</h3>
+<h1 align="center">Hi, I'm Shilpa 👋</h1>
+<h3 align="center">Senior Mobile & Frontend Engineer | React Native · React.js · TypeScript</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=verma-shilpa&label=Profile%20views&color=0e75b6&style=flat" alt="verma-shilpa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=verma-shilpa" alt="verma-shilpa" /></a> </p>
-
-- 🔭 I’m currently working on Banking domain
-- 💬 Ask me about **React-Native, React JS, Javascript and Typescript,Github CI/CD,React, Firebase, Android/Ios deployment, Unit Test Cases**
-
-- 📫 How to reach me **kumarishilpa60@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shilpa-v-7a6194142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shilpa-v-7a6194142" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/verma-shilpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="verma-shilpa" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shilpa-v-7a6194142/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kumarishilpa60@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=verma-shilpa&show_icons=true&locale=en&layout=compact" alt="verma-shilpa" /></p>
+### 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=verma-shilpa&show_icons=true&locale=en" alt="verma-shilpa" /></p>
+- 🎯 9+ years building and shipping production **iOS & Android** apps with **React Native**
+- 🏗️ Currently a **Senior Technical Lead** at HCLTech, working on enterprise UI architecture with LIT Element & Pega Constellation
+- 📱 Shipped and led mobile apps for **Keurig, Indigo, MINT Dentistry**, and more — live on the App Store & Play Store
+- 🧩 Strong foundation across **React Native, React.js, Angular, TypeScript**, with hands-on native iOS (**Swift**) exposure
+- 🤖 Exploring **GenAI-powered frontend development** — LLM API integration and AI-assisted UI patterns
+- 🌱 Passionate about performance optimization, reusable component architecture, and mentoring engineers
+- 💬 Ask me about React Native, mobile performance, or enterprise design systems
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=verma-shilpa&" alt="verma-shilpa" /></p>
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
+</p>
+
+**State Management**
+
+<p>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=mobx&logoColor=white" />
+</p>
+
+**Mobile & Integration**
+
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+</p>
+
+**Tools & Practices**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile%2FScrum-1E90FF?style=flat-square" />
+</p>
+
+---
+
+### 📱 Featured Projects
+
+| Project | Role | Stack | Highlights |
+|---|---|---|---|
+| **Keurig App** | Senior Technical Lead | React Native, TypeScript, Firebase Cloud Messaging, Optimizely | IoT companion app for Keurig® smart brewers — live on App Store & Play Store |
+| **Indigo Flight Booking** | Module Lead | React Native, TypeScript, Datadog, Microservices, Adobe APIs | Flight booking, fares & seat selection for a high-traffic travel app |
+| **MINT Dentistry (USA)** | Team Lead | React Native, TypeScript, AWS, Firebase Crashlytics | Healthcare services app with a dedicated Data Privacy module |
+| **ING – Flowforce** | Senior Technical Lead | LIT Element, Pega Constellation, TypeScript | Enterprise design system integration (ING Orange Juice) into a business portal |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Verma-Shilpa&show_icons=true&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Verma-Shilpa&hide_border=true" height="165" />
+</p>
+
+---
+
+<p align="center">
+  <i>📫 Reach me at kumarishilpa60@gmail.com or connect on <a href="https://www.linkedin.com/in/shilpa-v-7a6194142/">LinkedIn</a></i>
+</p>
